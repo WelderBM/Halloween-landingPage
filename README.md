@@ -12,9 +12,9 @@ Uma landing page de halloween 🎃
 
 <h2 id="funcionalidades-do-projeto">Funcionalidades</h2>
 
-- [x] tema dark e white, e suas transições
-- [x] mostrar e ocultar images
-- [x] GET de api de fotos
+- [x] transição animada de botões
+- [x] responsividade em tela
+
 <br>
 
 <h2 id="como-rodar">Como rodar o projeto</h2>
