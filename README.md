@@ -9,7 +9,6 @@ Uma landing page de halloween 🎃
 - <a href="#como-rodar">Como rodar este projeto</a>
 - <a href="#tecnologias-ultilizadas">Tecnologias utilizadas</a>
 - <a href="#pessoas-autoras">Pessoas autoras</a>
-- <a href="#proximos-passos">Próximos passos</a>
 
 <h2 id="funcionalidades-do-projeto">Funcionalidades</h2>
 
@@ -47,8 +46,3 @@ Uma landing page de halloween 🎃
 <img alt="minha foto de perfil" src="./perfil-quadrado.JPG" width="200"/>
 welder barroso
 
-
-<h2 id="proximos-passos">Próximos passos</h2> 
-
-- [ ] implementar like como alterável pelo usuário
-- [ ] implementar busca
