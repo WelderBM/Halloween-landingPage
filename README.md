@@ -1,6 +1,6 @@
 <h1 align="center">Halloween-app</h1>
-<img src="./capa.jpg"/>
-Um clone do Instagram
+<img src="./capa.png"/>
+Uma landing page de halloween 🎃 
 <h2 align="center"><a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site</a></h2>
 
 ## Indice
