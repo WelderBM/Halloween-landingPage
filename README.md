@@ -1,29 +1,24 @@
-<h1 align="center">Halloween Landing page</h1>
+<h1 align="center">Halloween Landing Page</h1>
 <img src="./capa.png"/>
-Uma landing page de halloween 🎃 
+A Halloween landing page 🎃
+<a href="https://welderbm.github.io/Halloween-landingPage/">View the site🎈</a>
 
-## Indice
+## Index
 
--  <a href="#funcionalidades-do-projeto">funcionalidades do projeto</a>
--  <a href="#como-rodar">Como rodar este projeto</a>
--  <a href="#tecnologias-ultilizadas">Tecnologias utilizadas</a>
--  <a href="#pessoas-autoras">Pessoas autoras</a>
+- <a href="#funcionalidades-do-projeto">project features</a>
+- <a href="#tecnologias-ultilizadas">Technologies used</a>
+- <a href="#pessoas-autoras">Authors</a>
 
-<h2 id="funcionalidades-do-projeto">Funcionalidades</h2>
+<h2 id="funcionalidades-do-projeto">Features</h2>
 
-- [x] transição animada de botões
-- [x] responsividade em tela
+- [x] animated button transition
+- [x] responsiveness on screen
 
-<h2 id="como-rodar">Como rodar o projeto</h2>
-<a href="https://welderbm.github.io/Halloween-landingPage/">Ver site clicando aqui</a>
-
-<h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
+<h2 id="tecnologias-ultilizadas">Technologies used</h2> 
 
 1. [React](https://react.dev/)
 1. [Vite](https://vitejs.dev/)
 
-
-<h2 id="pessoas-autoras">Pessoas autoras</h2> 
-<img alt="minha foto de perfil" src="./perfil-quadrado.JPG" width="200"/>
+<h2 id="pessoas-autoras">Authors</h2> 
+<img alt="my profile picture" src="./perfil-quadrado.JPG" width="200"/>
 welder barroso
-
