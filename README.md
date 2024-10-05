@@ -1,7 +1,6 @@
-<h1 align="center">Halloween-app</h1>
+<h1 align="center">Halloween Landing page</h1>
 <img src="./capa.png"/>
 Uma landing page de halloween 🎃 
-<h2 align="center"><a href="[https://master--ubiquitous-tapioca-4da5cb.netlify.app/](https://welderbm.github.io/Halloween-landingPage/)">Ver site</a></h2>
 
 ## Indice
 
@@ -15,10 +14,8 @@ Uma landing page de halloween 🎃
 - [x] transição animada de botões
 - [x] responsividade em tela
 
-<br>
-
 <h2 id="como-rodar">Como rodar o projeto</h2>
-<a href="https://welderbm.github.io/LoginScreen-Dark/">Ver site clicando aqui</a>
+<a href="https://welderbm.github.io/Halloween-landingPage/">Ver site clicando aqui</a>
 
 <h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
 
