@@ -4,10 +4,10 @@ Uma landing page de halloween 🎃
 
 ## Indice
 
-- <a href="#funcionalidades-do-projeto">funcionalidades do projeto</a>
-- <a href="#como-rodar">Como rodar este projeto</a>
-- <a href="#tecnologias-ultilizadas">Tecnologias utilizadas</a>
-- <a href="#pessoas-autoras">Pessoas autoras</a>
+-  <a href="#funcionalidades-do-projeto">funcionalidades do projeto</a>
+-  <a href="#como-rodar">Como rodar este projeto</a>
+-  <a href="#tecnologias-ultilizadas">Tecnologias utilizadas</a>
+-  <a href="#pessoas-autoras">Pessoas autoras</a>
 
 <h2 id="funcionalidades-do-projeto">Funcionalidades</h2>
 
