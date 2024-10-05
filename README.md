@@ -1,7 +1,7 @@
 <h1 align="center">Halloween-app</h1>
 <img src="./capa.png"/>
 Uma landing page de halloween 🎃 
-<h2 align="center"><a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site</a></h2>
+<h2 align="center"><a href="[https://master--ubiquitous-tapioca-4da5cb.netlify.app/](https://welderbm.github.io/Halloween-landingPage/)">Ver site</a></h2>
 
 ## Indice
 
@@ -18,24 +18,8 @@ Uma landing page de halloween 🎃
 <br>
 
 <h2 id="como-rodar">Como rodar o projeto</h2>
+<a href="https://welderbm.github.io/LoginScreen-Dark/">Ver site clicando aqui</a>
 
-``` bash
-    # Clone este repositorio
-    $ git clone linkrepo
-
-    # Acesse a pasta do projeto no seu terminal
-    $ cd instagram-app
-
-    # Instale as dependencias
-    $ npm install
-    # ou
-    $ yarn
-
-    # Execute a aplicação
-    $ npm run dev
-    #ou
-    $ yarn dev
-```
 <h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
 
 1. [React](https://react.dev/)
